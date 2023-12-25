@@ -16,6 +16,10 @@ body {
     margin-bottom: 0px;
 }
 
+.head-text{
+    background-color: powderblue;
+}
+
 .gif_container {
     display: flex;
     height: 60vh;
