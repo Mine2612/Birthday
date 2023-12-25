@@ -4,6 +4,8 @@ body {
     align-items: center;
     height: 90vh;
     background-color: #F8C8DC;
+    transform: scale(0.9);
+    transform-origin: 0 0;
 }
 
 .text{
