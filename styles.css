@@ -15,16 +15,16 @@ body {
 .text{
     color: #F8C8DC;
 }
+
 #noButton {
     position: absolute;
-    margin-left: 150px;
+    margin-left: 50%;
     transition: 0.5s;
 }
 
 #yesButton {
     position: absolute;
-    width: 15%;
-    margin-right: 150px;
+    margin-right: 50%;
 }
 
 .header_text {
